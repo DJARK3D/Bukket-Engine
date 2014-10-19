@@ -1,4 +1,1 @@
-Bukket-Engine
-=============
-
-3D IOS Game Engine
+Bukket Engine version 1.0
